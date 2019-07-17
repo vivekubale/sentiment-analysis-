@@ -1,0 +1,2 @@
+# sentiment-analysis-
+Sentiment analysis on movie data  - Refine the movie data for fitting into vectorize form - Output sentiment analysis of movie data using Logistic Regression and SVM - Also trained with LSTM, CNN1D, EMbedded layer - Effect of removing stop words, stemming, lemmatization, n-grams, term-frequency and inverse data-frequency (TF-IDF) analyzed  - Lowering the numbers in tuple for n-grams increases the size of dictionary as well as time to fit the model
